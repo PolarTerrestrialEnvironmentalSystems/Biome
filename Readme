@@ -9,20 +9,16 @@ This repository includes the script for data analysis and visualization, as well
 Details：
 
 2. Data visualization.R
-• Fig. 1: Spatial distribution of the fossil pollen records analyzed showing the proportion of biome shifts per site over the last 21,000 years
+• Figure 1: Spatial patterns of megabiome distributions at 0 cal. ka BP and their agreement with modern potential natural megabiomes
 
-• Fig. 2: Temporal patterns of biome and bioclimate change in the Northern Hemisphere over the last 21,000 years
+• Figure 2. Spatial distributions of megabiomes at 21, 16, 13, 9, 6, and 3 cal. ka BP
 
-• Fig. 3: Gaussian kernel correlations between changes in biomes and composite bioclimatic variables
+• Figure 3：Temporal changes in the latitudinal location of megabiome and ice-sheet
 
-• Fig. 4: Potential spatial patterns of bioclimates and biome changes in the MPI-ESM simulation over the next 300 years in the Northern Hemisphere
+• Figure 4：Spatiotemporal patterns of EMD between the pollen-based reconstructions and ESM-based simulation ensemble
 
-• Supplementary Fig. 1: Record density for the last 21,000 years
+• Appendix Figure A1：Spatial distribution and sources of fossil pollen records in the LegacyPollen 2.0 dataset
 
-• Supplementary Fig. 2: Spatial patterns of biome distributions at 0 cal. ka BP and their agreement with modern potential natural biomes
+• Appendix Figure A2: Spatial patterns of megabiome distributions at 0 cal. ka BP and their agreement with modern potential natural megabiomes
 
-• Supplementary Fig. 3: Temporal patterns of simulated bioclimatic variables over the last 21,000 years in the Northern Hemisphere
-
-• Supplementary Fig. 4: Gaussian kernel correlations between compositional turnover and proportion of shifts in biomes over the last 21,000 years in the Northern Hemisphere
-
-• Supplementary Fig. 5: Gaussian kernel correlation coefficients between compositional turnover and proportion of shifts in biomes with simulated bioclimatic variables and their rates of change over the last 21,000 years in the Northern Hemisphere
+• Appendix Figure A3：Differences in bioclimatic variables between ESM-based simulations at 0ka and observations
