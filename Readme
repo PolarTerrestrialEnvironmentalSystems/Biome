@@ -9,6 +9,10 @@ This repository includes the script for data analysis and visualization, as well
 Details：
 
 1. Statistical analyses.R
+
+Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Statistical-analyses-Input-data
+Result: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Statistical-analyses-Result
+
 • Statistical analysis 1: Select the pollen sample of the target timeslice from the time-nearest sample (Asia as example)
 
 • Statistical analysis 2: Calculate the biome affinity score of pollen-based reconstructions for site (Asia as example)
@@ -23,6 +27,10 @@ Details：
 
 
 2. Data visualization.R
+
+Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Data-visualization-Input-data
+Result: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Data-visualization-Result
+
 • Figure 1: Spatial patterns of megabiome distributions at 0 cal. ka BP and their agreement with modern potential natural megabiomes
 
 • Figure 2. Spatial distributions of megabiomes at 21, 16, 13, 9, 6, and 3 cal. ka BP
