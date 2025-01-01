@@ -8,6 +8,20 @@ This repository includes the script for data analysis and visualization, as well
 
 Details：
 
+1. Statistical analyses.R
+• Statistical analysis 1: Select the pollen sample of the target timeslice from the time-nearest sample (Asia as example)
+
+• Statistical analysis 2: Calculate the biome affinity score of pollen-based reconstructions for site (Asia as example)
+
+• Statistical analysis 3: Assign ice-sheet and biome of site to grid-cell
+
+• Statistical analysis 4: Validation of model climate bias
+
+• Statistical analysis 5: Space Constrained Clustering
+
+• Statistical analysis 6: EMD between pollen-based reconstructions and ESM-based simulations
+
+
 2. Data visualization.R
 • Figure 1: Spatial patterns of megabiome distributions at 0 cal. ka BP and their agreement with modern potential natural megabiomes
 
